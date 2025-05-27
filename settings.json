@@ -20,8 +20,8 @@
     "status": true,
     "uri": "MONGO_URI"
   },
-  "discordBotToken": "",
-  "discordClientID": "",
+  "discordBotToken": "a67WAWxOnwurR_TqrMj1E__LIQHy8NU6nSc-NdnmnONKX1k2GWEK8hz3XY15bBu0gMWg",
+  "discordClientID": "1209231374762905641",
   "pageAccessToken": "",
   "pageVerifyToken": "",
   "noFB": true,
@@ -33,8 +33,8 @@
     "note": "This is for the bot account, not your main account, if email_asEnvKey or password_asEnvKey is true, it will use the .env key provided in email and password fields, this is helpful when hiding the credentials."
   },
   "PREFIX": "!",
-  "ADMINBOT": ["100075058221244", "discord:1234346521881739307", "wss:admin"],
-  "EXTRAPREFIX": ["+"],
+  "ADMINBOT": ["61575847331340", "discord:1209231374762905641", "wss:admin"],
+  "EXTRAPREFIX": ["."],
   "MODERATORBOT": ["wss:moderator", ""],
   "exitOnError": false,
   "WEB_PASSWORD": "uwu"
