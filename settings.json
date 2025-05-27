@@ -18,7 +18,7 @@
   "autoCreateDB": false,
   "MongoConfig": {
     "status": true,
-    "uri": "MONGO_URI"
+    "uri": "mongodb+srv://Monsterwith:<King-k763>@cluster0.zevqvlc.mongodb.net/?retryWrites=true&w=majority's f"
   },
   "discordBotToken": "a67WAWxOnwurR_TqrMj1E__LIQHy8NU6nSc-NdnmnONKX1k2GWEK8hz3XY15bBu0gMWg",
   "discordClientID": "1209231374762905641",
